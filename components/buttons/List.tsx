@@ -68,6 +68,7 @@ const List: FC<Props> = ({
   } else
     return (
       <ListModal
+        orderKind='alienswap'
         trigger={trigger}
         collectionId={contract}
         tokenId={tokenId}
