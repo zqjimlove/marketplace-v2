@@ -67,10 +67,10 @@ const MINIMUM_AMOUNT = 0.000001
 
 const marketplaces = [
   {
-    name: 'Reservoir',
+    name: 'AlienSwap',
     imageUrl: 'https://api.reservoir.tools/redirect/sources/reservoir/logo/v2',
     orderbook: 'reservoir',
-    orderKind: 'seaport-v1.4',
+    orderKind: 'alienswap',
   },
   {
     name: 'OpenSea',
